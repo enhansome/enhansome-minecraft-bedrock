@@ -27,7 +27,7 @@
             "archived": false,
             "id": 354044192,
             "language": null,
-            "last_commit": "2026-08-14T20:19:49Z",
+            "last_commit": "2026-08-19T11:30:54Z",
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
             "stars": 299
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-18T21:44:38Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38829
+                "stars": 38830
               }
             },
             {
@@ -1324,8 +1324,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:55:23.663Z",
+    "last_updated": "2026-08-19T12:39:56.265Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
+    "original_repository_id": 238638816,
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
     "enhanced_repository": "enhansome/enhansome-minecraft-bedrock",
     "enhanced_repository_description": null,
