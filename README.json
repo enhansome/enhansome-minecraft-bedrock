@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180884220,
             "language": null,
             "last_commit": "2023-11-04T05:30:00Z",
             "owner": "TwistedAsylumMC",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354044192,
             "language": null,
             "last_commit": "2026-08-14T20:19:49Z",
             "owner": "Bedrock-OSS",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367136260,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T16:17:12Z",
+            "last_commit": "2026-08-18T16:13:47Z",
             "owner": "MicrosoftDocs",
             "repo": "minecraft-creator",
             "stars": 255
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458944145,
             "language": "JavaScript",
             "last_commit": "2026-08-01T04:20:33Z",
             "owner": "JaylyDev",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142383229,
             "language": null,
             "last_commit": "2021-03-10T21:39:30Z",
             "owner": "MisteFr",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132629496,
             "language": "HTML",
             "last_commit": "2020-11-19T14:39:34Z",
             "owner": "lukeeey",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82616561,
             "language": "Java",
             "last_commit": "2017-04-13T22:22:34Z",
             "owner": "jocopa3",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12147801,
             "language": "PHP",
             "last_commit": "2013-11-25T17:00:58Z",
             "owner": "PocketMine",
@@ -119,7 +127,7 @@
       "title": "Documentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160048470,
             "language": "TypeScript",
             "last_commit": "2022-12-13T21:58:22Z",
             "owner": "bridge-core",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234910740,
             "language": "Kotlin",
             "last_commit": "2022-05-20T21:22:23Z",
             "owner": "itsu-dev",
@@ -153,7 +163,7 @@
       "title": "IDE"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137065390,
             "language": "CMake",
             "last_commit": "2026-06-25T20:42:42Z",
             "owner": "minecraft-linux",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176133381,
             "language": "C++",
             "last_commit": "2026-06-19T19:26:38Z",
             "owner": "MCMrARM",
@@ -190,11 +202,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7462518,
             "language": "Java",
             "last_commit": "2020-01-19T02:53:41Z",
             "owner": "zhuowei",
             "repo": "MCPELauncher",
-            "stars": 741
+            "stars": 743
           }
         },
         {
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152779648,
             "language": "Java",
             "last_commit": "2025-10-16T20:44:51Z",
             "owner": "timscriptov",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20986839,
             "language": "Java",
             "last_commit": "2018-10-19T19:24:14Z",
             "owner": "byteandahalf",
@@ -229,957 +244,1005 @@
       "title": "Launcher"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bedrock-protocol",
+              "description": "Minecraft Bedrock protocol library, with authentication and encryption",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51658481,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T19:22:23Z",
+                "owner": "PrismarineJS",
+                "repo": "bedrock-protocol",
+                "stars": 463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Protocol",
+              "description": "A protocol library for Minecraft Bedrock Edition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159194493,
+                "language": "Java",
+                "last_commit": "2026-08-14T19:29:24Z",
+                "owner": "CloudburstMC",
+                "repo": "Protocol",
+                "stars": 406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BedrockProtocol",
+              "description": "An implementation of the Minecraft: Bedrock Edition protocol in PHP",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 385958911,
+                "language": "PHP",
+                "last_commit": "2026-07-06T20:38:06Z",
+                "owner": "pmmp",
+                "repo": "BedrockProtocol",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mcwss",
+              "description": "A websocket server for Minecraft Bedrock Edition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171338891,
+                "language": "Go",
+                "last_commit": "2024-03-06T05:59:54Z",
+                "owner": "Sandertv",
+                "repo": "mcwss",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meowslib",
+              "description": "A websocket server lib for Minecraft Bedrock Edition.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 189744823,
+                "language": "JavaScript",
+                "last_commit": "2022-01-23T14:59:29Z",
+                "owner": "CAIMEOX",
+                "repo": "meowslib",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mcpews",
+              "description": "A library that supports MCPE Websocket Protocol",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405011213,
+                "language": "TypeScript",
+                "last_commit": "2026-08-01T11:49:08Z",
+                "owner": "mcpews",
+                "repo": "mcpews",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BedrockWS",
+              "description": "PEWS inspired websocket server for Minecraft: Bedrock Edition.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 112712730,
+                "language": "JavaScript",
+                "last_commit": "2018-03-18T00:18:35Z",
+                "owner": "pocketnode",
+                "repo": "BedrockWS",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PEWSServer",
+              "description": "A WebSocket Server for Minecraft (Bedrock Edition).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140223274,
+                "language": "Java",
+                "last_commit": "2018-07-17T11:15:53Z",
+                "owner": "XeroAlpha",
+                "repo": "PEWSServer",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protocol"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Geyser",
+              "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195856796,
+                "language": "Java",
+                "last_commit": "2026-08-16T14:11:49Z",
+                "owner": "GeyserMC",
+                "repo": "Geyser",
+                "stars": 5751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DragonProxy",
+              "description": "A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 64472007,
+                "language": "Java",
+                "last_commit": "2021-04-07T11:31:21Z",
+                "owner": "DragonetMC",
+                "repo": "DragonProxy",
+                "stars": 982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gophertunnel",
+              "description": "A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183931561,
+                "language": "Go",
+                "last_commit": "2026-08-18T16:02:29Z",
+                "owner": "Sandertv",
+                "repo": "gophertunnel",
+                "stars": 560
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WatchDog",
+              "description": "Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 180671998,
+                "language": "Shell",
+                "last_commit": "2021-03-07T11:03:41Z",
+                "owner": "yesdog",
+                "repo": "Waterdog",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Portal",
+              "description": "A lightweight transfer proxy written in Go for Minecraft: Bedrock Edition.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 323866633,
+                "language": "Go",
+                "last_commit": "2024-06-16T20:12:26Z",
+                "owner": "Paroxity",
+                "repo": "portal",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCPE-Proxy",
+              "description": "Proxy for Minecraft Pocket Edition to connect to internet servers without app modification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7195653,
+                "language": "JavaScript",
+                "last_commit": "2013-08-25T00:23:41Z",
+                "owner": "brandon15811",
+                "repo": "Minecraft-PE-Proxy",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nemisys",
+              "description": "The Java implementation of standard Synapse Proxy Protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62543413,
+                "language": "Java",
+                "last_commit": "2022-12-14T20:26:35Z",
+                "owner": "iTXTech",
+                "repo": "Nemisys",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCMU",
+              "description": "A multiplayer proxy for Minecraft based on nodejs (MineCraft MUltiplayer)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238119401,
+                "language": "JavaScript",
+                "last_commit": "2020-04-08T06:56:15Z",
+                "owner": "Fancyflame",
+                "repo": "MCMU",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Proxy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pocket Mine",
+              "description": "A server software for Minecraft: Bedrock Edition in PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 69691727,
+                "language": "PHP",
+                "last_commit": "2026-07-09T11:31:21Z",
+                "owner": "pmmp",
+                "repo": "PocketMine-MP",
+                "stars": 3571
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LeviLamina",
+              "description": "A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333478800,
+                "language": "C++",
+                "last_commit": "2026-08-17T13:22:18Z",
+                "owner": "LiteLDev",
+                "repo": "LeviLamina",
+                "stars": 1635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiNET",
+              "description": "A (not so) basic Minecraft Pocket Edition server written in C#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24305907,
+                "language": "C#",
+                "last_commit": "2026-08-18T18:38:22Z",
+                "owner": "NiclasOlofsson",
+                "repo": "MiNET",
+                "stars": 880
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nukkit",
+              "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 36117051,
+                "language": "Java",
+                "last_commit": "2024-03-21T12:28:05Z",
+                "owner": "Nukkit",
+                "repo": "Nukkit",
+                "stars": 837
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DragonFly",
+              "description": "Minecraft (Bedrock Edition) server software written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206809182,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:29:26Z",
+                "owner": "df-mc",
+                "repo": "dragonfly",
+                "stars": 833
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BDSX",
+              "description": "BDSX: Minecraft Bedrock Dedicated Server + node.js!",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 215571721,
+                "language": "TypeScript",
+                "last_commit": "2024-08-01T12:10:15Z",
+                "owner": "bdsx",
+                "repo": "bdsx",
+                "stars": 490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Genisys",
+              "description": "Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48602252,
+                "language": "PHP",
+                "last_commit": "2020-05-10T12:43:07Z",
+                "owner": "iTXTech",
+                "repo": "Genisys",
+                "stars": 440
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSPrismarine",
+              "description": "Basic Minecraft Bedrock Edition software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276338764,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T21:33:23Z",
+                "owner": "JSPrismarine",
+                "repo": "JSPrismarine",
+                "stars": 312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Steadfast2",
+              "description": "Minecraft PE Server Software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37665471,
+                "language": "PHP",
+                "last_commit": "2023-03-09T15:12:29Z",
+                "owner": "Hydreon",
+                "repo": "Steadfast2",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Element0",
+              "description": "Run windows version of BDS in linux with Mod support.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 238628146,
+                "language": "C++",
+                "last_commit": "2020-12-02T19:10:06Z",
+                "owner": "Element-0",
+                "repo": "ElementZero",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoMine",
+              "description": "A new fresh Minecraft: Bedrock Edition server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53688655,
+                "language": "Java",
+                "last_commit": "2026-04-09T23:57:23Z",
+                "owner": "gomint",
+                "repo": "gomint",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Serenity",
+              "description": "A Minecraft Bedrock Edition Server Software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417910587,
+                "language": "TypeScript",
+                "last_commit": "2026-07-24T21:44:07Z",
+                "owner": "SerenityJS",
+                "repo": "serenity",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClearSky",
+              "description": "ClearSky is an fast, clean PM spoon, while having many features.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49435874,
+                "language": "PHP",
+                "last_commit": "2017-08-07T14:52:15Z",
+                "owner": "ClearSkyTeam",
+                "repo": "ClearSky",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Voxelwind",
+              "description": "The high-performance Minecraft: Pocket Edition server (in development)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64025178,
+                "language": "Java",
+                "last_commit": "2021-01-20T22:28:26Z",
+                "owner": "voxelwind",
+                "repo": "voxelwind",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PocketNode",
+              "description": "A server software for Minecraft: Bedrock written in Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 110648335,
+                "language": "JavaScript",
+                "last_commit": "2018-05-10T23:04:17Z",
+                "owner": "pocketnode",
+                "repo": "PocketNode",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StoneServer",
+              "description": "A modded minecraft bedrock edition server.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 159918800,
+                "language": "C",
+                "last_commit": "2019-07-08T15:40:44Z",
+                "owner": "codehz",
+                "repo": "StoneServer",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Podrum",
+              "description": "A minecraft (bedrock) server software written in python (3.X).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442505439,
+                "language": "C",
+                "last_commit": "2022-05-06T02:47:16Z",
+                "owner": "Podrum",
+                "repo": "Podrum",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiteLoader",
+              "description": "An epoch-making cross-language plugin loader for Minecraft Bedrock Dedicated Server (BDS).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 668556960,
+                "language": "C++",
+                "last_commit": "2024-11-01T05:04:33Z",
+                "owner": "LiteLDev",
+                "repo": "LiteLoaderBDS",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ElementZeroR",
+              "description": "ElementZero, but re-designed (WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320205472,
+                "language": "PowerShell",
+                "last_commit": "2021-02-13T15:19:13Z",
+                "owner": "Element-0",
+                "repo": "ElementZeroR",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NumerousAlpaca",
+              "description": "A Minecraft Bedrock Edition server in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55270729,
+                "language": "JavaScript",
+                "last_commit": "2026-05-21T20:42:44Z",
+                "owner": "PrismarineJS",
+                "repo": "numerous-alpaca",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Server"
+        }
+      ],
       "title": "Networking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "bedrock-protocol",
-          "description": "Minecraft Bedrock protocol library, with authentication and encryption",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T19:22:23Z",
-            "owner": "PrismarineJS",
-            "repo": "bedrock-protocol",
-            "stars": 463
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MCBE Essentials",
+              "description": "MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439496100,
+                "language": "JavaScript",
+                "last_commit": "2026-06-04T02:13:32Z",
+                "owner": "MCBE-Essentials",
+                "repo": "mcbe-essentials.github.io",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SuitcaseJS",
+              "description": "State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 829729483,
+                "language": "JavaScript",
+                "last_commit": "2025-08-18T04:04:38Z",
+                "owner": "TBroz15",
+                "repo": "SuitcaseJS",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
         },
         {
-          "node_type": "item",
-          "title": "Protocol",
-          "description": "A protocol library for Minecraft Bedrock Edition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-14T19:29:24Z",
-            "owner": "CloudburstMC",
-            "repo": "Protocol",
-            "stars": 406
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aseprite",
+              "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23129458,
+                "language": "C++",
+                "last_commit": "2026-08-18T21:44:38Z",
+                "owner": "aseprite",
+                "repo": "aseprite",
+                "stars": 38829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blockbench",
+              "description": "A boxy 3D model editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93747383,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T20:54:10Z",
+                "owner": "JannisX11",
+                "repo": "blockbench",
+                "stars": 5810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Skinview3d",
+              "description": "Three.js powered Minecraft skin viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105425704,
+                "language": "TypeScript",
+                "last_commit": "2026-05-03T04:20:34Z",
+                "owner": "bs-community",
+                "repo": "skinview3d",
+                "stars": 719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snowstorm",
+              "description": "Minecraft Bedrock Particle Generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184788711,
+                "language": "Vue",
+                "last_commit": "2025-10-18T11:03:25Z",
+                "owner": "JannisX11",
+                "repo": "snowstorm",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "McUnicodeFontTextureGeneratorOnline",
+              "description": "minecraft unicode font texture generator online(Static Web Page).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70150746,
+                "language": "HTML",
+                "last_commit": "2022-08-01T18:48:25Z",
+                "owner": "codehz",
+                "repo": "minecraft-unicode-font-texture-generator-online",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Php MC 3d Skin",
+              "description": "Render a 3D view of a skin as a svg or png image.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4054532,
+                "language": "PHP",
+                "last_commit": "2022-01-10T19:54:21Z",
+                "owner": "supermamie",
+                "repo": "php-Minecraft-3D-skin",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JsonUI Scripting",
+              "description": "A library used to create UI packs for Minecraft: Bedrock Edition",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 812263500,
+                "language": "TypeScript",
+                "last_commit": "2026-03-11T13:10:07Z",
+                "owner": "AsakiYuki",
+                "repo": "AsaJS",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShadowSkin",
+              "description": "A minecraft online skin editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229412339,
+                "language": "JavaScript",
+                "last_commit": "2021-05-11T14:19:48Z",
+                "owner": "Fancyflame",
+                "repo": "ShadowSkin",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCPE-VideoGenerator",
+              "description": "Minecraft Video Generator by HYWT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191771673,
+                "language": "Java",
+                "last_commit": "2024-10-19T15:57:31Z",
+                "owner": "haveyouwantto",
+                "repo": "MCBE-video-generator",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resource Pack Authoring"
         },
         {
-          "node_type": "item",
-          "title": "BedrockProtocol",
-          "description": "An implementation of the Minecraft: Bedrock Edition protocol in PHP",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2026-07-06T20:38:06Z",
-            "owner": "pmmp",
-            "repo": "BedrockProtocol",
-            "stars": 173
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image-Map",
+              "description": "Converts image to maps for Minecraft Java and Bedrock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93980833,
+                "language": "C#",
+                "last_commit": "2026-02-05T17:23:42Z",
+                "owner": "tryashtar",
+                "repo": "image-map",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AddonToolchain",
+              "description": "Tools for building and workflow improvements for bedrock scripting.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 155178559,
+                "language": "JavaScript",
+                "last_commit": "2022-02-20T22:46:51Z",
+                "owner": "minecraft-addon-tools",
+                "repo": "minecraft-addon-toolchain",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BeAPI",
+              "description": "MCBE GameTest Wrapper - Bedrock Edition API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390560662,
+                "language": "TypeScript",
+                "last_commit": "2023-07-19T09:07:54Z",
+                "owner": "beapijs",
+                "repo": "beapi",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Block Core",
+              "description": "Minecraft Bedrock API Wrapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872715011,
+                "language": "TypeScript",
+                "last_commit": "2024-11-17T04:04:10Z",
+                "owner": "dvnxvll",
+                "repo": "BlockCore",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Loot-Table Generator",
+              "description": "Website for creating Bedrock Edition loot tables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277003353,
+                "language": "JavaScript",
+                "last_commit": "2023-05-01T23:28:19Z",
+                "owner": "Bedrock-OSS",
+                "repo": "bedrock-loot-gen",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aquiver",
+              "description": "Playing video on Minecraft Bedrock!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241767864,
+                "language": "Rust",
+                "last_commit": "2020-03-16T14:56:58Z",
+                "owner": "CAIMEOX",
+                "repo": "Aquiver",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Behavior Pack Authoring"
         },
         {
-          "node_type": "item",
-          "title": "Mcwss",
-          "description": "A websocket server for Minecraft Bedrock Edition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-06T05:59:54Z",
-            "owner": "Sandertv",
-            "repo": "mcwss",
-            "stars": 129
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NBT Studio",
+              "description": "An up-to-date NBT viewer and editor with lots of new features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300429279,
+                "language": "C#",
+                "last_commit": "2024-07-12T10:10:50Z",
+                "owner": "tryashtar",
+                "repo": "nbt-studio",
+                "stars": 807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WorldEdit-BE",
+              "description": "A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 415947715,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T13:14:54Z",
+                "owner": "SIsilicon",
+                "repo": "WorldEdit-BE",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastBuilder",
+              "description": "Minecraft PE Geometry Builder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157051861,
+                "language": "TypeScript",
+                "last_commit": "2024-04-15T11:16:07Z",
+                "owner": "CAIMEOX",
+                "repo": "FastBuilder",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VoxelGeometry",
+              "description": "Gametest based Minecraft geometry structure generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519669622,
+                "language": "TypeScript",
+                "last_commit": "2024-04-04T14:55:54Z",
+                "owner": "CAIMEOX",
+                "repo": "VoxelGeometry",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WorldDownloader",
+              "description": "Mod for minecraft-linux/mcpelauncher-client which collects chunks sent over network from server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194524366,
+                "language": "C++",
+                "last_commit": "2019-07-22T12:09:36Z",
+                "owner": "Frago9876543210",
+                "repo": "WorldDownloader",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "World Editing"
         },
         {
-          "node_type": "item",
-          "title": "Meowslib",
-          "description": "A websocket server lib for Minecraft Bedrock Edition.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-01-23T14:59:29Z",
-            "owner": "CAIMEOX",
-            "repo": "meowslib",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mcpews",
-          "description": "A library that supports MCPE Websocket Protocol",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-01T11:49:08Z",
-            "owner": "mcpews",
-            "repo": "mcpews",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BedrockWS",
-          "description": "PEWS inspired websocket server for Minecraft: Bedrock Edition.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-03-18T00:18:35Z",
-            "owner": "pocketnode",
-            "repo": "BedrockWS",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PEWSServer",
-          "description": "A WebSocket Server for Minecraft (Bedrock Edition).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-07-17T11:15:53Z",
-            "owner": "XeroAlpha",
-            "repo": "PEWSServer",
-            "stars": 8
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scythe-AntiCheat",
+              "description": "The best minecraft bedrock anti-cheat designed for realms, worlds and servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387307415,
+                "language": "JavaScript",
+                "last_commit": "2026-04-19T20:27:32Z",
+                "owner": "Scythe-Anticheat",
+                "repo": "Scythe-Anticheat",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RainbowPieUI2",
+              "description": "Minecraft Bedrock Edition UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730997724,
+                "language": "Python",
+                "last_commit": "2026-04-15T07:03:25Z",
+                "owner": "MintCoolMC",
+                "repo": "MCBE_RainbowPieUI2",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faithful-Bedrock-64x",
+              "description": "The official repository for the Bedrock version of Faithful 64x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311150573,
+                "language": null,
+                "last_commit": "2026-08-17T11:20:15Z",
+                "owner": "Faithful-Resource-Pack",
+                "repo": "Faithful-64x-Bedrock",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyAgent",
+              "description": "A agent generator and controller written in node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 140158267,
+                "language": "JavaScript",
+                "last_commit": "2020-02-06T23:13:59Z",
+                "owner": "mcpews",
+                "repo": "MyAgent",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Works"
         }
       ],
-      "title": "Protocol"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Geyser",
-          "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-16T14:11:49Z",
-            "owner": "GeyserMC",
-            "repo": "Geyser",
-            "stars": 5748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DragonProxy",
-          "description": "A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-04-07T11:31:21Z",
-            "owner": "DragonetMC",
-            "repo": "DragonProxy",
-            "stars": 982
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gophertunnel",
-          "description": "A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T18:33:52Z",
-            "owner": "Sandertv",
-            "repo": "gophertunnel",
-            "stars": 559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WatchDog",
-          "description": "Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2021-03-07T11:03:41Z",
-            "owner": "yesdog",
-            "repo": "Waterdog",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Portal",
-          "description": "A lightweight transfer proxy written in Go for Minecraft: Bedrock Edition.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-16T20:12:26Z",
-            "owner": "Paroxity",
-            "repo": "portal",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCPE-Proxy",
-          "description": "Proxy for Minecraft Pocket Edition to connect to internet servers without app modification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-08-25T00:23:41Z",
-            "owner": "brandon15811",
-            "repo": "Minecraft-PE-Proxy",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nemisys",
-          "description": "The Java implementation of standard Synapse Proxy Protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-12-14T20:26:35Z",
-            "owner": "iTXTech",
-            "repo": "Nemisys",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCMU",
-          "description": "A multiplayer proxy for Minecraft based on nodejs (MineCraft MUltiplayer)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-04-08T06:56:15Z",
-            "owner": "Fancyflame",
-            "repo": "MCMU",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProxProx",
-          "description": "Proxy for MC:PE Networks",
-          "children": []
-        }
-      ],
-      "title": "Proxy"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pocket Mine",
-          "description": "A server software for Minecraft: Bedrock Edition in PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2026-07-09T11:31:21Z",
-            "owner": "pmmp",
-            "repo": "PocketMine-MP",
-            "stars": 3571
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LeviLamina",
-          "description": "A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T13:22:18Z",
-            "owner": "LiteLDev",
-            "repo": "LeviLamina",
-            "stars": 1635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MiNET",
-          "description": "A (not so) basic Minecraft Pocket Edition server written in C#.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T22:08:59Z",
-            "owner": "NiclasOlofsson",
-            "repo": "MiNET",
-            "stars": 880
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nukkit",
-          "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2024-03-21T12:28:05Z",
-            "owner": "Nukkit",
-            "repo": "Nukkit",
-            "stars": 837
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DragonFly",
-          "description": "Minecraft (Bedrock Edition) server software written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T10:30:42Z",
-            "owner": "df-mc",
-            "repo": "dragonfly",
-            "stars": 833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BDSX",
-          "description": "BDSX: Minecraft Bedrock Dedicated Server + node.js!",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-08-01T12:10:15Z",
-            "owner": "bdsx",
-            "repo": "bdsx",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Genisys",
-          "description": "Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2020-05-10T12:43:07Z",
-            "owner": "iTXTech",
-            "repo": "Genisys",
-            "stars": 440
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JSPrismarine",
-          "description": "Basic Minecraft Bedrock Edition software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T01:40:06Z",
-            "owner": "JSPrismarine",
-            "repo": "JSPrismarine",
-            "stars": 312
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Steadfast2",
-          "description": "Minecraft PE Server Software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-03-09T15:12:29Z",
-            "owner": "Hydreon",
-            "repo": "Steadfast2",
-            "stars": 271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Element0",
-          "description": "Run windows version of BDS in linux with Mod support.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2020-12-02T19:10:06Z",
-            "owner": "Element-0",
-            "repo": "ElementZero",
-            "stars": 269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GoMine",
-          "description": "A new fresh Minecraft: Bedrock Edition server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-09T23:57:23Z",
-            "owner": "gomint",
-            "repo": "gomint",
-            "stars": 238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Serenity",
-          "description": "A Minecraft Bedrock Edition Server Software",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-24T21:44:07Z",
-            "owner": "SerenityJS",
-            "repo": "serenity",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClearSky",
-          "description": "ClearSky is an fast, clean PM spoon, while having many features.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2017-08-07T14:52:15Z",
-            "owner": "ClearSkyTeam",
-            "repo": "ClearSky",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Voxelwind",
-          "description": "The high-performance Minecraft: Pocket Edition server (in development)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-01-20T22:28:26Z",
-            "owner": "voxelwind",
-            "repo": "voxelwind",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PocketNode",
-          "description": "A server software for Minecraft: Bedrock written in Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-05-10T23:04:17Z",
-            "owner": "pocketnode",
-            "repo": "PocketNode",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StoneServer",
-          "description": "A modded minecraft bedrock edition server.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2019-07-08T15:40:44Z",
-            "owner": "codehz",
-            "repo": "StoneServer",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Podrum",
-          "description": "A minecraft (bedrock) server software written in python (3.X).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-05-06T02:47:16Z",
-            "owner": "Podrum",
-            "repo": "Podrum",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LiteLoader",
-          "description": "An epoch-making cross-language plugin loader for Minecraft Bedrock Dedicated Server (BDS).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2024-11-01T05:04:33Z",
-            "owner": "LiteLDev",
-            "repo": "LiteLoaderBDS",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ElementZeroR",
-          "description": "ElementZero, but re-designed (WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2021-02-13T15:19:13Z",
-            "owner": "Element-0",
-            "repo": "ElementZeroR",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NumerousAlpaca",
-          "description": "A Minecraft Bedrock Edition server in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-21T20:42:44Z",
-            "owner": "PrismarineJS",
-            "repo": "numerous-alpaca",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Foxel",
-          "description": "PocketMine edited for BedrockPlay MCBE server (mc.bedrockplay.eu)",
-          "children": []
-        }
-      ],
-      "title": "Server"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tool"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MCBE Essentials",
-          "description": "MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-04T02:13:32Z",
-            "owner": "MCBE-Essentials",
-            "repo": "mcbe-essentials.github.io",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SuitcaseJS",
-          "description": "State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2025-08-18T04:04:38Z",
-            "owner": "TBroz15",
-            "repo": "SuitcaseJS",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Aseprite",
-          "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-14T18:53:53Z",
-            "owner": "aseprite",
-            "repo": "aseprite",
-            "stars": 38802
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blockbench",
-          "description": "A boxy 3D model editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T22:19:24Z",
-            "owner": "JannisX11",
-            "repo": "blockbench",
-            "stars": 5804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Skinview3d",
-          "description": "Three.js powered Minecraft skin viewer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-03T04:20:34Z",
-            "owner": "bs-community",
-            "repo": "skinview3d",
-            "stars": 719
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snowstorm",
-          "description": "Minecraft Bedrock Particle Generator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-10-18T11:03:25Z",
-            "owner": "JannisX11",
-            "repo": "snowstorm",
-            "stars": 238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "McUnicodeFontTextureGeneratorOnline",
-          "description": "minecraft unicode font texture generator online(Static Web Page).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-08-01T18:48:25Z",
-            "owner": "codehz",
-            "repo": "minecraft-unicode-font-texture-generator-online",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Php MC 3d Skin",
-          "description": "Render a 3D view of a skin as a svg or png image.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-01-10T19:54:21Z",
-            "owner": "supermamie",
-            "repo": "php-Minecraft-3D-skin",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JsonUI Scripting",
-          "description": "A library used to create UI packs for Minecraft: Bedrock Edition",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-03-11T13:10:07Z",
-            "owner": "AsakiYuki",
-            "repo": "AsaJS",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ShadowSkin",
-          "description": "A minecraft online skin editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-05-11T14:19:48Z",
-            "owner": "Fancyflame",
-            "repo": "ShadowSkin",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCPE-VideoGenerator",
-          "description": "Minecraft Video Generator by HYWT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-10-19T15:57:31Z",
-            "owner": "haveyouwantto",
-            "repo": "MCBE-video-generator",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ConvertJavaTextureToBedrock",
-          "description": "Web app for convert Minecraft Java texture packs to Bedrock texture packs.",
-          "children": []
-        }
-      ],
-      "title": "Resource Pack Authoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Image-Map",
-          "description": "Converts image to maps for Minecraft Java and Bedrock.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-05T17:23:42Z",
-            "owner": "tryashtar",
-            "repo": "image-map",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AddonToolchain",
-          "description": "Tools for building and workflow improvements for bedrock scripting.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-02-20T22:46:51Z",
-            "owner": "minecraft-addon-tools",
-            "repo": "minecraft-addon-toolchain",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BeAPI",
-          "description": "MCBE GameTest Wrapper - Bedrock Edition API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-19T09:07:54Z",
-            "owner": "beapijs",
-            "repo": "beapi",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Block Core",
-          "description": "Minecraft Bedrock API Wrapper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-17T04:04:10Z",
-            "owner": "dvnxvll",
-            "repo": "BlockCore",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Loot-Table Generator",
-          "description": "Website for creating Bedrock Edition loot tables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-01T23:28:19Z",
-            "owner": "Bedrock-OSS",
-            "repo": "bedrock-loot-gen",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aquiver",
-          "description": "Playing video on Minecraft Bedrock!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-03-16T14:56:58Z",
-            "owner": "CAIMEOX",
-            "repo": "Aquiver",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Behavior Pack Authoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NBT Studio",
-          "description": "An up-to-date NBT viewer and editor with lots of new features",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-07-12T10:10:50Z",
-            "owner": "tryashtar",
-            "repo": "nbt-studio",
-            "stars": 807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WorldEdit-BE",
-          "description": "A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T13:14:54Z",
-            "owner": "SIsilicon",
-            "repo": "WorldEdit-BE",
-            "stars": 421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastBuilder",
-          "description": "Minecraft PE Geometry Builder.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-15T11:16:07Z",
-            "owner": "CAIMEOX",
-            "repo": "FastBuilder",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VoxelGeometry",
-          "description": "Gametest based Minecraft geometry structure generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-04T14:55:54Z",
-            "owner": "CAIMEOX",
-            "repo": "VoxelGeometry",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WorldDownloader",
-          "description": "Mod for minecraft-linux/mcpelauncher-client which collects chunks sent over network from server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-07-22T12:09:36Z",
-            "owner": "Frago9876543210",
-            "repo": "WorldDownloader",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Leveldb-mcpe",
-          "description": "A fork of Google's LevelDB with added zlib compression and windows support.",
-          "children": []
-        }
-      ],
-      "title": "World Editing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Scythe-AntiCheat",
-          "description": "The best minecraft bedrock anti-cheat designed for realms, worlds and servers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-19T20:27:32Z",
-            "owner": "Scythe-Anticheat",
-            "repo": "Scythe-Anticheat",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RainbowPieUI2",
-          "description": "Minecraft Bedrock Edition UI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-15T07:03:25Z",
-            "owner": "MintCoolMC",
-            "repo": "MCBE_RainbowPieUI2",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Faithful-Bedrock-64x",
-          "description": "The official repository for the Bedrock version of Faithful 64x",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T11:20:15Z",
-            "owner": "Faithful-Resource-Pack",
-            "repo": "Faithful-64x-Bedrock",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MyAgent",
-          "description": "A agent generator and controller written in node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2020-02-06T23:13:59Z",
-            "owner": "mcpews",
-            "repo": "MyAgent",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Other Works"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1188,6 +1251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14252082,
             "language": "Python",
             "last_commit": "2022-05-07T18:32:02Z",
             "owner": "mcedit",
@@ -1202,6 +1266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178599681,
             "language": "C#",
             "last_commit": "2023-08-10T06:42:07Z",
             "owner": "papyrus-mc",
@@ -1216,6 +1281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43249248,
             "language": "C++",
             "last_commit": "2019-12-09T06:08:03Z",
             "owner": "Plethora777",
@@ -1230,6 +1296,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67453171,
             "language": "Java",
             "last_commit": "2017-05-08T20:00:37Z",
             "owner": "protolambda",
@@ -1244,25 +1311,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308094375,
             "language": "Vue",
             "last_commit": "2025-07-13T22:31:04Z",
             "owner": "JannisX11",
             "repo": "molang-grapher",
             "stars": 14
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Bedrock Viz",
-          "description": "Minecraft Bedrock Edition World Visualization & Reporting Tool with Web App",
-          "children": []
         }
       ],
       "title": "Visualization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:55:57.744Z",
+    "last_updated": "2026-08-19T10:55:23.663Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
     "enhanced_repository": "enhansome/enhansome-minecraft-bedrock",
