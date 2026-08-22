@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T16:13:47Z",
             "owner": "MicrosoftDocs",
             "repo": "minecraft-creator",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-06-25T20:42:42Z",
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1619
+            "stars": 1621
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-19T19:26:38Z",
             "owner": "MCMrARM",
             "repo": "mc-w10-version-launcher",
-            "stars": 1045
+            "stars": 1046
           }
         },
         {
@@ -275,7 +275,7 @@
                 "last_commit": "2026-08-20T12:41:28Z",
                 "owner": "CloudburstMC",
                 "repo": "Protocol",
-                "stars": 406
+                "stars": 407
               }
             },
             {
@@ -384,10 +384,10 @@
                 "archived": false,
                 "id": 195856796,
                 "language": "Java",
-                "last_commit": "2026-08-20T18:33:49Z",
+                "last_commit": "2026-08-21T21:20:55Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5756
+                "stars": 5755
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3572
+                "stars": 3575
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-17T13:22:18Z",
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1637
+                "stars": 1638
               }
             },
             {
@@ -541,7 +541,7 @@
                 "archived": false,
                 "id": 24305907,
                 "language": "C#",
-                "last_commit": "2026-08-20T17:17:19Z",
+                "last_commit": "2026-08-21T22:04:33Z",
                 "owner": "NiclasOlofsson",
                 "repo": "MiNET",
                 "stars": 880
@@ -571,10 +571,10 @@
                 "archived": false,
                 "id": 206809182,
                 "language": "Go",
-                "last_commit": "2026-08-19T10:29:26Z",
+                "last_commit": "2026-08-22T09:24:16Z",
                 "owner": "df-mc",
                 "repo": "dragonfly",
-                "stars": 833
+                "stars": 835
               }
             },
             {
@@ -861,10 +861,10 @@
                 "archived": false,
                 "id": 23129458,
                 "language": "C++",
-                "last_commit": "2026-08-20T21:37:06Z",
+                "last_commit": "2026-08-21T22:31:10Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38878
+                "stars": 38894
               }
             },
             {
@@ -876,10 +876,10 @@
                 "archived": false,
                 "id": 93747383,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T22:08:38Z",
+                "last_commit": "2026-08-22T09:23:14Z",
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 5820
+                "stars": 5821
               }
             },
             {
@@ -1103,7 +1103,7 @@
                 "last_commit": "2024-07-12T10:10:50Z",
                 "owner": "tryashtar",
                 "repo": "nbt-studio",
-                "stars": 808
+                "stars": 811
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 311150573,
                 "language": null,
-                "last_commit": "2026-08-17T11:20:15Z",
+                "last_commit": "2026-08-21T15:56:06Z",
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
                 "stars": 52
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:58:05.322Z",
+    "last_updated": "2026-08-22T10:49:48.888Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
     "original_repository_id": 238638816,
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
