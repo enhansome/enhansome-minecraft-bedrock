@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T14:51:56Z",
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
-            "stars": 300
+            "stars": 302
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T16:13:47Z",
             "owner": "MicrosoftDocs",
             "repo": "minecraft-creator",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-06-25T20:42:42Z",
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1622
+            "stars": 1623
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2018-10-19T19:24:14Z",
             "owner": "byteandahalf",
             "repo": "GenericLauncher",
-            "stars": 49
+            "stars": 50
           }
         }
       ],
@@ -384,7 +384,7 @@
                 "archived": false,
                 "id": 195856796,
                 "language": "Java",
-                "last_commit": "2026-08-21T21:20:55Z",
+                "last_commit": "2026-08-24T08:19:35Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
                 "stars": 5756
@@ -417,7 +417,7 @@
                 "last_commit": "2026-08-20T16:09:44Z",
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
-                "stars": 560
+                "stars": 561
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3575
+                "stars": 3576
               }
             },
             {
@@ -526,10 +526,10 @@
                 "archived": false,
                 "id": 333478800,
                 "language": "C++",
-                "last_commit": "2026-08-17T13:22:18Z",
+                "last_commit": "2026-08-23T14:57:03Z",
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1640
+                "stars": 1641
               }
             },
             {
@@ -541,10 +541,10 @@
                 "archived": false,
                 "id": 24305907,
                 "language": "C#",
-                "last_commit": "2026-08-21T22:04:33Z",
+                "last_commit": "2026-08-24T02:00:43Z",
                 "owner": "NiclasOlofsson",
                 "repo": "MiNET",
-                "stars": 880
+                "stars": 879
               }
             },
             {
@@ -616,7 +616,7 @@
                 "archived": false,
                 "id": 276338764,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T11:11:22Z",
+                "last_commit": "2026-08-23T19:25:34Z",
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
                 "stars": 313
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-21T22:31:10Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38916
+                "stars": 38945
               }
             },
             {
@@ -876,10 +876,10 @@
                 "archived": false,
                 "id": 93747383,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:48:22Z",
+                "last_commit": "2026-08-24T09:40:46Z",
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 5825
+                "stars": 5833
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 311150573,
                 "language": null,
-                "last_commit": "2026-08-22T17:52:21Z",
+                "last_commit": "2026-08-23T18:07:06Z",
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
                 "stars": 52
@@ -1256,7 +1256,7 @@
             "last_commit": "2022-05-07T18:32:02Z",
             "owner": "mcedit",
             "repo": "mcedit2",
-            "stars": 756
+            "stars": 757
           }
         },
         {
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:50:13.894Z",
+    "last_updated": "2026-08-24T11:02:11.487Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
     "original_repository_id": 238638816,
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
