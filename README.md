@@ -53,7 +53,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 ### Protocol
 
 * [bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol) ⭐ 464 | 🐛 75 | 🌐 JavaScript | 📅 2026-08-23 - Minecraft Bedrock protocol library, with authentication and encryption
-* [Protocol](https://github.com/CloudburstMC/Protocol.git) ⭐ 408 | 🐛 14 | 🌐 Java | 📅 2026-08-20 - A protocol library for Minecraft Bedrock Edition.
+* [Protocol](https://github.com/CloudburstMC/Protocol.git) ⭐ 408 | 🐛 14 | 🌐 Java | 📅 2026-08-24 - A protocol library for Minecraft Bedrock Edition.
 * [BedrockProtocol](https://github.com/pmmp/BedrockProtocol) ⚠️ Archived - An implementation of the Minecraft: Bedrock Edition protocol in PHP
 * [Mcwss](https://github.com/Sandertv/mcwss.git) ⭐ 129 | 🐛 14 | 🌐 Go | 📅 2024-03-06 - A websocket server for Minecraft Bedrock Edition.
 * [Meowslib](https://github.com/CAIMEOX/libwebsocket.git) ⚠️ Archived -  A websocket server lib for Minecraft Bedrock Edition.
@@ -63,7 +63,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Proxy
 
-* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,756 | 🐛 305 | 🌐 Java | 📅 2026-08-24 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
+* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,756 | 🐛 308 | 🌐 Java | 📅 2026-08-24 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 * [DragonProxy](https://github.com/DragonetMC/DragonProxy.git) ⚠️ Archived - A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
 * [Gophertunnel](https://github.com/Sandertv/gophertunnel.git) ⭐ 561 | 🐛 54 | 🌐 Go | 📅 2026-08-20 - A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.
 * [WatchDog](https://github.com/yesdog/Waterdog.git) ⚠️ Archived - Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.
@@ -77,7 +77,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 * [Pocket Mine](https://github.com/pmmp/PocketMine-MP.git) ⚠️ Archived - A server software for Minecraft: Bedrock Edition in PHP.
 * [LeviLamina](https://github.com/LiteLDev/LeviLamina) ⭐ 1,641 | 🐛 2 | 🌐 C++ | 📅 2026-08-23 - A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
-* [MiNET](https://github.com/NiclasOlofsson/MiNET.git) ⭐ 879 | 🐛 27 | 🌐 C# | 📅 2026-08-24 - A (not so) basic Minecraft Pocket Edition server written in C#.
+* [MiNET](https://github.com/NiclasOlofsson/MiNET.git) ⭐ 880 | 🐛 27 | 🌐 C# | 📅 2026-08-24 - A (not so) basic Minecraft Pocket Edition server written in C#.
 * [Nukkit](https://github.com/Nukkit/Nukkit.git) ⚠️ Archived - Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .
 * [DragonFly](https://github.com/df-mc/dragonfly.git) ⭐ 836 | 🐛 167 | 🌐 Go | 📅 2026-08-22 - Minecraft (Bedrock Edition) server software written in Go.
 * [BDSX](https://github.com/bdsx/bdsx.git) ⚠️ Archived - BDSX: Minecraft Bedrock Dedicated Server + node.js!
@@ -107,7 +107,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Resource Pack Authoring
 
-* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 38,945 | 🐛 1,986 | 🌐 C++ | 📅 2026-08-21 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 38,951 | 🐛 1,986 | 🌐 C++ | 📅 2026-08-21 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * [Blockbench](https://github.com/JannisX11/blockbench.git) ⭐ 5,833 | 🐛 704 | 🌐 JavaScript | 📅 2026-08-24 - A boxy 3D model editor
 * [Skinview3d](https://github.com/bs-community/skinview3d.git) ⭐ 720 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - Three.js powered Minecraft skin viewer.
 * [Snowstorm](https://github.com/JannisX11/snowstorm) ⭐ 238 | 🐛 29 | 🌐 Vue | 📅 2025-10-18 - Minecraft Bedrock Particle Generator
