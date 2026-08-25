@@ -141,7 +141,7 @@
             "last_commit": "2022-12-13T21:58:22Z",
             "owner": "bridge-core",
             "repo": "bridge.",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-06-25T20:42:42Z",
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1623
+            "stars": 1624
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2020-01-19T02:53:41Z",
             "owner": "zhuowei",
             "repo": "MCPELauncher",
-            "stars": 742
+            "stars": 743
           }
         },
         {
@@ -275,7 +275,7 @@
                 "last_commit": "2026-08-24T11:39:57Z",
                 "owner": "CloudburstMC",
                 "repo": "Protocol",
-                "stars": 408
+                "stars": 409
               }
             },
             {
@@ -384,10 +384,10 @@
                 "archived": false,
                 "id": 195856796,
                 "language": "Java",
-                "last_commit": "2026-08-24T12:50:24Z",
+                "last_commit": "2026-08-24T23:35:49Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5756
+                "stars": 5757
               }
             },
             {
@@ -417,7 +417,7 @@
                 "last_commit": "2026-08-20T16:09:44Z",
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
-                "stars": 561
+                "stars": 562
               }
             },
             {
@@ -861,10 +861,10 @@
                 "archived": false,
                 "id": 23129458,
                 "language": "C++",
-                "last_commit": "2026-08-21T22:31:10Z",
+                "last_commit": "2026-08-24T20:54:24Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38951
+                "stars": 38961
               }
             },
             {
@@ -879,7 +879,7 @@
                 "last_commit": "2026-08-24T11:12:47Z",
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 5833
+                "stars": 5836
               }
             },
             {
@@ -1118,7 +1118,7 @@
                 "last_commit": "2026-08-17T13:14:54Z",
                 "owner": "SIsilicon",
                 "repo": "WorldEdit-BE",
-                "stars": 421
+                "stars": 422
               }
             },
             {
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:08.472Z",
+    "last_updated": "2026-08-25T06:35:02.423Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
     "original_repository_id": 238638816,
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
