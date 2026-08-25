@@ -15,7 +15,7 @@
             "last_commit": "2023-11-04T05:30:00Z",
             "owner": "TwistedAsylumMC",
             "repo": "bedrock-unicode-characters",
-            "stars": 328
+            "stars": 327
           }
         },
         {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-24T23:35:49Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5757
+                "stars": 5758
               }
             },
             {
@@ -414,7 +414,7 @@
                 "archived": false,
                 "id": 183931561,
                 "language": "Go",
-                "last_commit": "2026-08-20T16:09:44Z",
+                "last_commit": "2026-08-25T08:00:41Z",
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
                 "stars": 562
@@ -861,10 +861,10 @@
                 "archived": false,
                 "id": 23129458,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:54:24Z",
+                "last_commit": "2026-08-25T10:30:39Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38961
+                "stars": 38966
               }
             },
             {
@@ -1200,7 +1200,7 @@
                 "last_commit": "2026-04-15T07:03:25Z",
                 "owner": "MintCoolMC",
                 "repo": "MCBE_RainbowPieUI2",
-                "stars": 123
+                "stars": 124
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 311150573,
                 "language": null,
-                "last_commit": "2026-08-23T18:07:06Z",
+                "last_commit": "2026-08-25T07:40:52Z",
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
                 "stars": 52
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:02.423Z",
+    "last_updated": "2026-08-25T10:59:27.362Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
     "original_repository_id": 238638816,
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",

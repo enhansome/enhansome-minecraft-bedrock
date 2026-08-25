@@ -26,7 +26,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ## Documentation
 
-* [Bedrock Unicode Characters](https://github.com/TwistedAsylumMC/bedrock-unicode-characters.git) ⭐ 328 | 🐛 1 | 📅 2023-11-04 - Minecraft:Bedrock Edition Unicode characters
+* [Bedrock Unicode Characters](https://github.com/TwistedAsylumMC/bedrock-unicode-characters.git) ⭐ 327 | 🐛 1 | 📅 2023-11-04 - Minecraft:Bedrock Edition Unicode characters
 * [Bedrock Wiki](https://github.com/Bedrock-OSS/bedrock-wiki) ⭐ 302 | 🐛 39 | 📅 2026-08-22 - Rewrite of the Bedrock Wiki.
 * [minecraft-creator](https://github.com/MicrosoftDocs/minecraft-creator) ⭐ 257 | 🐛 137 | 🌐 JavaScript | 📅 2026-08-18 - The repository for Minecraft Bedrock documentation.
 * [ScriptAPI](https://github.com/JaylyDev/ScriptAPI.git) ⭐ 178 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-01 - Community Driven Scripts for Minecraft's Scripting
@@ -63,9 +63,9 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Proxy
 
-* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,757 | 🐛 302 | 🌐 Java | 📅 2026-08-24 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
+* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,758 | 🐛 303 | 🌐 Java | 📅 2026-08-24 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 * [DragonProxy](https://github.com/DragonetMC/DragonProxy.git) ⚠️ Archived - A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
-* [Gophertunnel](https://github.com/Sandertv/gophertunnel.git) ⭐ 562 | 🐛 54 | 🌐 Go | 📅 2026-08-20 - A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.
+* [Gophertunnel](https://github.com/Sandertv/gophertunnel.git) ⭐ 562 | 🐛 53 | 🌐 Go | 📅 2026-08-25 - A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.
 * [WatchDog](https://github.com/yesdog/Waterdog.git) ⚠️ Archived - Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.
 * [Portal](https://github.com/Paroxity/portal.git) ⚠️ Archived - A lightweight transfer proxy written in Go for Minecraft: Bedrock Edition.
 * [MCPE-Proxy](https://github.com/brandon15811/Minecraft-PE-Proxy.git) ⭐ 51 | 🐛 4 | 🌐 JavaScript | 📅 2013-08-25 - Proxy for Minecraft Pocket Edition to connect to internet servers without app modification.
@@ -107,7 +107,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Resource Pack Authoring
 
-* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 38,961 | 🐛 1,989 | 🌐 C++ | 📅 2026-08-24 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 38,966 | 🐛 1,989 | 🌐 C++ | 📅 2026-08-25 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * [Blockbench](https://github.com/JannisX11/blockbench.git) ⭐ 5,836 | 🐛 705 | 🌐 JavaScript | 📅 2026-08-24 - A boxy 3D model editor
 * [Skinview3d](https://github.com/bs-community/skinview3d.git) ⭐ 720 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - Three.js powered Minecraft skin viewer.
 * [Snowstorm](https://github.com/JannisX11/snowstorm) ⭐ 238 | 🐛 29 | 🌐 Vue | 📅 2025-10-18 - Minecraft Bedrock Particle Generator
@@ -139,8 +139,8 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 ### Other Works
 
 * [Scythe-AntiCheat](https://github.com/MrDiamond64/Scythe-AntiCheat.git) ⭐ 176 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-19 - The best minecraft bedrock anti-cheat designed for realms, worlds and servers.
-* [RainbowPieUI2](https://github.com/MintCoolMC/MCBE_RainbowPieUI2) ⭐ 123 | 🐛 3 | 🌐 Python | 📅 2026-04-15 - Minecraft Bedrock Edition UI
-* [Faithful-Bedrock-64x](https://github.com/Faithful-Resource-Pack/Faithful-Bedrock-64x) ⭐ 52 | 🐛 0 | 📅 2026-08-23 - The official repository for the Bedrock version of Faithful 64x
+* [RainbowPieUI2](https://github.com/MintCoolMC/MCBE_RainbowPieUI2) ⭐ 124 | 🐛 3 | 🌐 Python | 📅 2026-04-15 - Minecraft Bedrock Edition UI
+* [Faithful-Bedrock-64x](https://github.com/Faithful-Resource-Pack/Faithful-Bedrock-64x) ⭐ 52 | 🐛 0 | 📅 2026-08-25 - The official repository for the Bedrock version of Faithful 64x
 * [MyAgent](https://github.com/mcpews/MyAgent.git) ⚠️ Archived - A agent generator and controller written in node.js.
 
 ## Visualization
