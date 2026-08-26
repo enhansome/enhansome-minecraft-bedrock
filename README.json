@@ -27,7 +27,7 @@
             "archived": false,
             "id": 354044192,
             "language": null,
-            "last_commit": "2026-08-22T14:51:56Z",
+            "last_commit": "2026-08-25T16:24:24Z",
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
             "stars": 302
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 367136260,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T16:13:47Z",
+            "last_commit": "2026-08-25T16:04:12Z",
             "owner": "MicrosoftDocs",
             "repo": "minecraft-creator",
             "stars": 257
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-24T23:35:49Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5758
+                "stars": 5759
               }
             },
             {
@@ -417,7 +417,7 @@
                 "last_commit": "2026-08-25T08:00:41Z",
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
-                "stars": 562
+                "stars": 563
               }
             },
             {
@@ -549,6 +549,21 @@
             },
             {
               "node_type": "item",
+              "title": "DragonFly",
+              "description": "Minecraft (Bedrock Edition) server software written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206809182,
+                "language": "Go",
+                "last_commit": "2026-08-22T09:24:16Z",
+                "owner": "df-mc",
+                "repo": "dragonfly",
+                "stars": 837
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Nukkit",
               "description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .",
               "children": [],
@@ -560,21 +575,6 @@
                 "owner": "Nukkit",
                 "repo": "Nukkit",
                 "stars": 837
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DragonFly",
-              "description": "Minecraft (Bedrock Edition) server software written in Go.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 206809182,
-                "language": "Go",
-                "last_commit": "2026-08-22T09:24:16Z",
-                "owner": "df-mc",
-                "repo": "dragonfly",
-                "stars": 836
               }
             },
             {
@@ -616,7 +616,7 @@
                 "archived": false,
                 "id": 276338764,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T19:25:34Z",
+                "last_commit": "2026-08-25T23:00:58Z",
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
                 "stars": 313
@@ -861,10 +861,10 @@
                 "archived": false,
                 "id": 23129458,
                 "language": "C++",
-                "last_commit": "2026-08-25T10:30:39Z",
+                "last_commit": "2026-08-25T12:37:45Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38966
+                "stars": 39003
               }
             },
             {
@@ -876,10 +876,10 @@
                 "archived": false,
                 "id": 93747383,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:12:47Z",
+                "last_commit": "2026-08-25T21:28:22Z",
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 5836
+                "stars": 5839
               }
             },
             {
@@ -1103,7 +1103,7 @@
                 "last_commit": "2024-07-12T10:10:50Z",
                 "owner": "tryashtar",
                 "repo": "nbt-studio",
-                "stars": 811
+                "stars": 812
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 311150573,
                 "language": null,
-                "last_commit": "2026-08-25T07:40:52Z",
+                "last_commit": "2026-08-25T14:12:23Z",
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
                 "stars": 52
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:59:27.362Z",
+    "last_updated": "2026-08-26T11:01:07.763Z",
     "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
     "original_repository_id": 238638816,
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
