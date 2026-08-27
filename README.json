@@ -27,10 +27,10 @@
             "archived": false,
             "id": 354044192,
             "language": null,
-            "last_commit": "2026-08-27T00:44:10Z",
+            "last_commit": "2026-08-27T15:05:31Z",
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-19T19:26:38Z",
             "owner": "MCMrARM",
             "repo": "mc-w10-version-launcher",
-            "stars": 1048
+            "stars": 1049
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2018-10-19T19:24:14Z",
             "owner": "byteandahalf",
             "repo": "GenericLauncher",
-            "stars": 50
+            "stars": 51
           }
         }
       ],
@@ -290,7 +290,7 @@
                 "last_commit": "2026-07-06T20:38:06Z",
                 "owner": "pmmp",
                 "repo": "BedrockProtocol",
-                "stars": 173
+                "stars": 174
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-24T23:35:49Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5761
+                "stars": 5762
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576
+                "stars": 3575
               }
             },
             {
@@ -616,7 +616,7 @@
                 "archived": false,
                 "id": 276338764,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:00:58Z",
+                "last_commit": "2026-08-27T13:11:08Z",
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
                 "stars": 313
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-25T12:37:45Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 39036
+                "stars": 39044
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 311150573,
                 "language": null,
-                "last_commit": "2026-08-26T22:31:48Z",
+                "last_commit": "2026-08-27T20:00:48Z",
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
                 "stars": 52
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:19.332Z",
+    "last_updated": "2026-08-27T20:41:04.837Z",
     "original_repository_info": {
       "archived": false,
       "id": 238638816,
