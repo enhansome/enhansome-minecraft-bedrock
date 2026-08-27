@@ -27,7 +27,7 @@
             "archived": false,
             "id": 354044192,
             "language": null,
-            "last_commit": "2026-08-25T16:24:24Z",
+            "last_commit": "2026-08-27T00:44:10Z",
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
             "stars": 302
@@ -177,7 +177,7 @@
             "last_commit": "2026-06-25T20:42:42Z",
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1624
+            "stars": 1626
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-19T19:26:38Z",
             "owner": "MCMrARM",
             "repo": "mc-w10-version-launcher",
-            "stars": 1046
+            "stars": 1048
           }
         },
         {
@@ -260,7 +260,7 @@
                 "last_commit": "2026-08-23T07:28:57Z",
                 "owner": "PrismarineJS",
                 "repo": "bedrock-protocol",
-                "stars": 464
+                "stars": 466
               }
             },
             {
@@ -275,7 +275,7 @@
                 "last_commit": "2026-08-24T11:39:57Z",
                 "owner": "CloudburstMC",
                 "repo": "Protocol",
-                "stars": 409
+                "stars": 410
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-24T23:35:49Z",
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5759
+                "stars": 5761
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3575
+                "stars": 3576
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-23T14:57:03Z",
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1641
+                "stars": 1642
               }
             },
             {
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-25T12:37:45Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 39003
+                "stars": 39036
               }
             },
             {
@@ -876,10 +876,10 @@
                 "archived": false,
                 "id": 93747383,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T21:28:22Z",
+                "last_commit": "2026-08-27T10:48:21Z",
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 5839
+                "stars": 5841
               }
             },
             {
@@ -894,7 +894,7 @@
                 "last_commit": "2026-05-03T04:20:34Z",
                 "owner": "bs-community",
                 "repo": "skinview3d",
-                "stars": 720
+                "stars": 721
               }
             },
             {
@@ -909,7 +909,7 @@
                 "last_commit": "2025-10-18T11:03:25Z",
                 "owner": "JannisX11",
                 "repo": "snowstorm",
-                "stars": 238
+                "stars": 237
               }
             },
             {
@@ -1103,7 +1103,7 @@
                 "last_commit": "2024-07-12T10:10:50Z",
                 "owner": "tryashtar",
                 "repo": "nbt-studio",
-                "stars": 812
+                "stars": 814
               }
             },
             {
@@ -1118,7 +1118,7 @@
                 "last_commit": "2026-08-17T13:14:54Z",
                 "owner": "SIsilicon",
                 "repo": "WorldEdit-BE",
-                "stars": 422
+                "stars": 423
               }
             },
             {
@@ -1185,7 +1185,7 @@
                 "last_commit": "2026-04-19T20:27:32Z",
                 "owner": "Scythe-Anticheat",
                 "repo": "Scythe-Anticheat",
-                "stars": 176
+                "stars": 177
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 311150573,
                 "language": null,
-                "last_commit": "2026-08-25T14:12:23Z",
+                "last_commit": "2026-08-26T22:31:48Z",
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
                 "stars": 52
@@ -1324,9 +1324,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:01:07.763Z",
-    "original_repository": "CAIMEOX/awesome-minecraft-bedrock",
-    "original_repository_id": 238638816,
+    "last_updated": "2026-08-27T11:51:19.332Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 238638816,
+      "language": null,
+      "last_commit": "2026-02-28T02:41:37Z",
+      "owner": "CAIMEOX",
+      "repo": "awesome-minecraft-bedrock",
+      "stars": 75
+    },
     "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
     "enhanced_repository": "enhansome/enhansome-minecraft-bedrock",
     "enhanced_repository_description": null,
