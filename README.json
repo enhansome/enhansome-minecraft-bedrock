@@ -273,10 +273,10 @@
             "language": "CMake",
             "license": "GPL-3.0",
             "last_commit": "2026-06-25T20:42:42Z",
-            "open_issues": 1094,
+            "open_issues": 1095,
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "bedrock",
               "launcher",
@@ -303,7 +303,7 @@
             "open_issues": 91,
             "owner": "MCMrARM",
             "repo": "mc-w10-version-launcher",
-            "stars": 1049,
+            "stars": 1050,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:55.827Z"
@@ -590,7 +590,7 @@
                 "open_issues": 308,
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5763,
+                "stars": 5765,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -653,8 +653,8 @@
                 "id": 183931561,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-25T08:00:41Z",
-                "open_issues": 53,
+                "last_commit": "2026-08-29T11:49:36Z",
+                "open_issues": 54,
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
                 "stars": 563,
@@ -841,7 +841,7 @@
                 "open_issues": 3,
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1644,
+                "stars": 1645,
                 "topics": [
                   "bedrock-dedicated-server",
                   "liteloaderbds",
@@ -896,11 +896,11 @@
                 "id": 206809182,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T15:15:27Z",
+                "last_commit": "2026-08-29T11:52:49Z",
                 "open_issues": 169,
                 "owner": "df-mc",
                 "repo": "dragonfly",
-                "stars": 838,
+                "stars": 840,
                 "topics": [
                   "bedrock-edition",
                   "df-mc",
@@ -1398,7 +1398,7 @@
                 "open_issues": 1992,
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 39073,
+                "stars": 39086,
                 "topics": [
                   "animated-sprites",
                   "animation",
@@ -1432,10 +1432,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-27T10:48:21Z",
-                "open_issues": 709,
+                "open_issues": 708,
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 5849,
+                "stars": 5850,
                 "topics": [
                   "3d",
                   "blockbench",
@@ -2164,7 +2164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:33.689Z",
+    "last_updated": "2026-08-29T15:10:55.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minecraft Bedrock plugin, tool and software.",
