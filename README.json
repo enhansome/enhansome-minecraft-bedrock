@@ -43,11 +43,11 @@
             "id": 354044192,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-02T18:40:23Z",
+            "last_commit": "2026-10-04T14:45:11Z",
             "open_issues": 32,
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "bedrock-addons",
               "bedrock-edition",
@@ -135,27 +135,6 @@
         },
         {
           "node_type": "item",
-          "title": "Mcpe-docs",
-          "description": "Minecraft: Bedrock Edition Documenation",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Minecraft: Bedrock Edition Documenation ->",
-            "homepage": "https://lukeeey.github.io/mcpe-docs/",
-            "id": 132629496,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2020-11-19T14:39:34Z",
-            "open_issues": 1,
-            "owner": "lukeeey",
-            "repo": "mcpe-docs",
-            "stars": 38,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:12:55.827Z"
-        },
-        {
-          "node_type": "item",
           "title": "PEWS-API",
           "description": "A Java Websocket Server API implementation for the Pocket, Windows 10, and Education Editions of Minecraft.",
           "children": [],
@@ -171,6 +150,27 @@
             "owner": "jocopa3",
             "repo": "PEWS-API",
             "stars": 37,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:12:55.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mcpe-docs",
+          "description": "Minecraft: Bedrock Edition Documenation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Minecraft: Bedrock Edition Documenation ->",
+            "homepage": "https://lukeeey.github.io/mcpe-docs/",
+            "id": 132629496,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2020-11-19T14:39:34Z",
+            "open_issues": 1,
+            "owner": "lukeeey",
+            "repo": "mcpe-docs",
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:55.827Z"
@@ -272,8 +272,8 @@
             "id": 137065390,
             "language": "CMake",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T08:23:13Z",
-            "open_issues": 1141,
+            "last_commit": "2026-10-04T08:37:48Z",
+            "open_issues": 1144,
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
             "stars": 1675,
@@ -303,7 +303,7 @@
             "open_issues": 93,
             "owner": "MCMrARM",
             "repo": "mc-w10-version-launcher",
-            "stars": 1060,
+            "stars": 1059,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:55.827Z"
@@ -324,7 +324,7 @@
             "open_issues": 873,
             "owner": "zhuowei",
             "repo": "MCPELauncher",
-            "stars": 746,
+            "stars": 745,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:55.827Z"
@@ -395,7 +395,7 @@
                 "open_issues": 86,
                 "owner": "PrismarineJS",
                 "repo": "bedrock-protocol",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -587,7 +587,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-09-30T11:57:21Z",
-                "open_issues": 328,
+                "open_issues": 330,
                 "owner": "GeyserMC",
                 "repo": "Geyser",
                 "stars": 5855,
@@ -654,10 +654,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-30T17:49:59Z",
-                "open_issues": 43,
+                "open_issues": 45,
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "auth",
                   "bedrock",
@@ -812,7 +812,7 @@
                 "open_issues": 453,
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3582,
+                "stars": 3580,
                 "topics": [
                   "minecraft",
                   "minecraft-server",
@@ -837,7 +837,7 @@
                 "id": 333478800,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-03T14:44:51Z",
+                "last_commit": "2026-10-04T13:43:39Z",
                 "open_issues": 4,
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
@@ -897,10 +897,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-20T16:30:21Z",
-                "open_issues": 174,
+                "open_issues": 175,
                 "owner": "df-mc",
                 "repo": "dragonfly",
-                "stars": 850,
+                "stars": 849,
                 "topics": [
                   "bedrock-edition",
                   "df-mc",
@@ -998,7 +998,7 @@
                 "id": 276338764,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-03T09:37:33Z",
+                "last_commit": "2026-10-04T00:54:52Z",
                 "open_issues": 15,
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
@@ -1395,10 +1395,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-30T21:40:51Z",
-                "open_issues": 2020,
+                "open_issues": 2021,
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 39854,
+                "stars": 39867,
                 "topics": [
                   "animated-sprites",
                   "animation",
@@ -1431,11 +1431,11 @@
                 "id": 93747383,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T13:04:03Z",
-                "open_issues": 665,
+                "last_commit": "2026-10-03T21:11:28Z",
+                "open_issues": 668,
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 6021,
+                "stars": 6022,
                 "topics": [
                   "3d",
                   "blockbench",
@@ -1787,7 +1787,7 @@
                 "open_issues": 34,
                 "owner": "tryashtar",
                 "repo": "nbt-studio",
-                "stars": 819,
+                "stars": 822,
                 "topics": [
                   "minecraft",
                   "nbt"
@@ -1808,7 +1808,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T09:36:01Z",
-                "open_issues": 40,
+                "open_issues": 43,
                 "owner": "SIsilicon",
                 "repo": "WorldEdit-BE",
                 "stars": 425,
@@ -1985,7 +1985,7 @@
                 "id": 311150573,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T23:43:45Z",
+                "last_commit": "2026-10-04T10:59:46Z",
                 "open_issues": 0,
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
@@ -2164,7 +2164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:47:39.094Z",
+    "last_updated": "2026-10-04T15:27:39.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minecraft Bedrock plugin, tool and software.",
