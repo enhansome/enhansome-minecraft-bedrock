@@ -272,11 +272,11 @@
             "id": 137065390,
             "language": "CMake",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T08:59:40Z",
-            "open_issues": 1150,
+            "last_commit": "2026-10-08T09:15:06Z",
+            "open_issues": 1152,
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1678,
+            "stars": 1680,
             "topics": [
               "bedrock",
               "launcher",
@@ -324,7 +324,7 @@
             "open_issues": 873,
             "owner": "zhuowei",
             "repo": "MCPELauncher",
-            "stars": 746,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:55.827Z"
@@ -395,7 +395,7 @@
                 "open_issues": 80,
                 "owner": "PrismarineJS",
                 "repo": "bedrock-protocol",
-                "stars": 481,
+                "stars": 484,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -419,7 +419,7 @@
                 "id": 159194493,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T18:31:20Z",
+                "last_commit": "2026-10-07T20:43:24Z",
                 "open_issues": 16,
                 "owner": "CloudburstMC",
                 "repo": "Protocol",
@@ -587,10 +587,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-07T13:33:07Z",
-                "open_issues": 333,
+                "open_issues": 334,
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5880,
+                "stars": 5886,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -837,11 +837,11 @@
                 "id": 333478800,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-07T05:52:33Z",
+                "last_commit": "2026-10-08T04:58:23Z",
                 "open_issues": 4,
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": [
                   "bedrock-dedicated-server",
                   "liteloaderbds",
@@ -998,7 +998,7 @@
                 "id": 276338764,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-07T16:06:30Z",
+                "last_commit": "2026-10-08T14:22:04Z",
                 "open_issues": 16,
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
@@ -1374,6 +1374,42 @@
                 ]
               },
               "first_seen": "2026-08-28T21:12:55.827Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Golem",
+              "description": "Integration testing for PocketMine-MP plugins: boots a real server, spawns simulated players and checks what they see, locally or in GitHub Actions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Integration tests for PocketMine-MP plugins: a real server, simulated players, one command.",
+                "homepage": "https://achedon12.github.io/golem/",
+                "id": 1408877463,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-08T13:13:54Z",
+                "open_issues": 1,
+                "owner": "achedon12",
+                "repo": "golem",
+                "stars": 1,
+                "topics": [
+                  "bedrock",
+                  "developer-tools",
+                  "fake-player",
+                  "github-actions",
+                  "integration-testing",
+                  "minecraft",
+                  "minecraft-bedrock",
+                  "php",
+                  "pmmp",
+                  "pocketmine",
+                  "pocketmine-mp",
+                  "test-framework",
+                  "testing",
+                  "testing-tools"
+                ]
+              },
+              "first_seen": "2026-10-08T17:30:21.411Z"
             }
           ],
           "description": null,
@@ -1398,7 +1434,7 @@
                 "open_issues": 2023,
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 39934,
+                "stars": 39950,
                 "topics": [
                   "animated-sprites",
                   "animation",
@@ -1435,7 +1471,7 @@
                 "open_issues": 667,
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 6026,
+                "stars": 6034,
                 "topics": [
                   "3d",
                   "blockbench",
@@ -2164,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:30:00.773Z",
+    "last_updated": "2026-10-08T17:30:21.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minecraft Bedrock plugin, tool and software.",
@@ -2172,11 +2208,11 @@
       "id": 238638816,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-02-28T02:41:37Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-08T14:45:48Z",
+      "open_issues": 2,
       "owner": "CAIMEOX",
       "repo": "awesome-minecraft-bedrock",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2185,7 +2221,7 @@
         "minecraftpe"
       ]
     },
-    "original_repository_sha": "8b1c17d0209974ebd1acd4346d7aad0774fd8fec",
+    "original_repository_sha": "7b83add9f99a59db38b61da0411728b9e0acd795",
     "enhanced_repository": "enhansome/enhansome-minecraft-bedrock",
     "enhanced_repository_description": null,
     "title": "Awesome Minecraftpe with stars"
