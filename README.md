@@ -42,7 +42,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ## Launcher
 
-* [MCPELauncher](https://github.com/minecraft-linux/mcpelauncher-manifest.git) ⭐ 1,703 | 🐛 1,168 | 🌐 CMake | 📅 2026-10-25 - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
+* [MCPELauncher](https://github.com/minecraft-linux/mcpelauncher-manifest.git) ⭐ 1,703 | 🐛 1,167 | 🌐 CMake | 📅 2026-10-26 - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
 * [Mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher.git) ⭐ 1,062 | 🐛 95 | 🌐 C++ | 📅 2026-06-19 - Windows 10 Multi-Version launcher.
 * [BlockLauncher](https://github.com/zhuowei/MCPELauncher) ⚠️ Archived - Source code for BlockLauncher, a launcher that patches Minecraft for Android.
 * [ModdedPE](https://github.com/TimScriptov/ModdedPE.git) ⭐ 64 | 🐛 4 | 🌐 Java | 📅 2025-10-16 - ModdedPE is a launcher which allows you to open Minecraft PE and load NMods. ModdedPE can also be used as a library for your project.
@@ -64,7 +64,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Proxy
 
-* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,930 | 🐛 337 | 🌐 Java | 📅 2026-10-24 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
+* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,931 | 🐛 329 | 🌐 Java | 📅 2026-10-26 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 * [DragonProxy](https://github.com/DragonetMC/DragonProxy.git) ⚠️ Archived - A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
 * [Gophertunnel](https://github.com/Sandertv/gophertunnel.git) ⭐ 578 | 🐛 47 | 🌐 Go | 📅 2026-10-19 - A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.
 * [WatchDog](https://github.com/yesdog/Waterdog.git) ⚠️ Archived - Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.
@@ -77,13 +77,13 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 ### Server
 
 * [Pocket Mine](https://github.com/pmmp/PocketMine-MP.git) ⚠️ Archived - A server software for Minecraft: Bedrock Edition in PHP.
-* [LeviLamina](https://github.com/LiteLDev/LeviLamina) ⭐ 1,700 | 🐛 6 | 🌐 C++ | 📅 2026-10-25 - A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
+* [LeviLamina](https://github.com/LiteLDev/LeviLamina) ⭐ 1,702 | 🐛 6 | 🌐 C++ | 📅 2026-10-26 - A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
 * [MiNET](https://github.com/NiclasOlofsson/MiNET.git) ⭐ 882 | 🐛 23 | 🌐 C# | 📅 2026-10-21 - A (not so) basic Minecraft Pocket Edition server written in C#.
-* [DragonFly](https://github.com/df-mc/dragonfly.git) ⭐ 856 | 🐛 178 | 🌐 Go | 📅 2026-10-24 - Minecraft (Bedrock Edition) server software written in Go.
+* [DragonFly](https://github.com/df-mc/dragonfly.git) ⭐ 857 | 🐛 178 | 🌐 Go | 📅 2026-10-24 - Minecraft (Bedrock Edition) server software written in Go.
 * [Nukkit](https://github.com/Nukkit/Nukkit.git) ⚠️ Archived - Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .
 * [BDSX](https://github.com/bdsx/bdsx.git) ⚠️ Archived - BDSX: Minecraft Bedrock Dedicated Server + node.js!
 * [Genisys](https://github.com/iTXTech/Genisys.git) ⚠️ Archived - Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.
-* [JSPrismarine](https://github.com/HerryYT/JSPrismarine.git) ⭐ 319 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-25 - Basic Minecraft Bedrock Edition software.
+* [JSPrismarine](https://github.com/HerryYT/JSPrismarine.git) ⭐ 319 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-26 - Basic Minecraft Bedrock Edition software.
 * [Steadfast2](https://github.com/Hydreon/Steadfast2.git) ⭐ 271 | 🐛 88 | 🌐 PHP | 📅 2023-03-09 - Minecraft PE Server Software.
 * [Element0](https://github.com/Element-0/ElementZero.git) ⚠️ Archived - Run windows version of BDS in linux with Mod support.
 * [GoMine](https://github.com/GoMint/GoMint.git) ⭐ 238 | 🐛 62 | 🌐 Java | 📅 2026-04-09 - A new fresh Minecraft: Bedrock Edition server.
@@ -103,16 +103,16 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 ### General
 
 * [MCBE Essentials](https://github.com/MCBE-Essentials/mcbe-essentials.github.io) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-19 - MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 26 | 🐛 7 | 🌐 Go | 📅 2026-10-25 - Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 26 | 🐛 5 | 🌐 Go | 📅 2026-10-26 - Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.
 * [SuitcaseJS](https://github.com/TBroz15/SuitcaseJS) ⚠️ Archived - State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.
 * [Golem](https://github.com/achedon12/golem) ⭐ 1 | 🐛 1 | 🌐 PHP | 📅 2026-10-08 - Integration testing for PocketMine-MP plugins: boots a real server, spawns simulated players and checks what they see, locally or in GitHub Actions.
 * [Minecraft ServerHub](https://minecraft-serverhub.com) - A modern server list with live status monitoring, MOTD creator, and free REST API for Bedrock Edition servers.
 
 ### Resource Pack Authoring
 
-* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 40,350 | 🐛 2,035 | 🌐 C++ | 📅 2026-10-22 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-* [Blockbench](https://github.com/JannisX11/blockbench.git) ⭐ 6,100 | 🐛 676 | 🌐 JavaScript | 📅 2026-10-23 - A boxy 3D model editor
-* [Skinview3d](https://github.com/bs-community/skinview3d.git) ⭐ 738 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - Three.js powered Minecraft skin viewer.
+* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 40,400 | 🐛 2,033 | 🌐 C++ | 📅 2026-10-22 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* [Blockbench](https://github.com/JannisX11/blockbench.git) ⭐ 6,107 | 🐛 674 | 🌐 JavaScript | 📅 2026-10-23 - A boxy 3D model editor
+* [Skinview3d](https://github.com/bs-community/skinview3d.git) ⭐ 737 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - Three.js powered Minecraft skin viewer.
 * [Snowstorm](https://github.com/JannisX11/snowstorm) ⭐ 243 | 🐛 29 | 🌐 Vue | 📅 2026-09-27 - Minecraft Bedrock Particle Generator
 * [McUnicodeFontTextureGeneratorOnline](https://github.com/codehz/minecraft-unicode-font-texture-generator-online.git) ⭐ 66 | 🐛 5 | 🌐 HTML | 📅 2022-08-01 - minecraft unicode font texture generator online(Static Web Page).
 * [Php MC 3d Skin](https://github.com/supermamie/php-Minecraft-3D-skin.git) ⭐ 55 | 🐛 3 | 🌐 PHP | 📅 2022-01-10 - Render a 3D view of a skin as a svg or png image.
@@ -123,7 +123,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Behavior Pack Authoring
 
-* [Image-Map](https://github.com/tryashtar/image-map.git) ⭐ 316 | 🐛 7 | 🌐 C# | 📅 2026-10-15 - Converts image to maps for Minecraft Java and Bedrock.
+* [Image-Map](https://github.com/tryashtar/image-map.git) ⭐ 315 | 🐛 7 | 🌐 C# | 📅 2026-10-15 - Converts image to maps for Minecraft Java and Bedrock.
 * [AddonToolchain](https://github.com/minecraft-addon-tools/minecraft-addon-toolchain.git) ⚠️ Archived - Tools for building and workflow improvements for bedrock scripting.
 * [BeAPI](https://github.com/MCBE-Utilities/BeAPI.git) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2023-07-19 - MCBE GameTest Wrapper - Bedrock Edition API
 * [Block Core](https://github.com/VoxlDevv/BlockCore) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-17 - Minecraft Bedrock API Wrapper.
@@ -157,4 +157,4 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
