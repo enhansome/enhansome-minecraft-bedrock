@@ -44,7 +44,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-04T07:41:51Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "Bedrock-OSS",
             "repo": "bedrock-wiki",
             "stars": 314,
@@ -71,8 +71,8 @@
             "id": 367136260,
             "language": "JavaScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-06T21:16:09Z",
-            "open_issues": 142,
+            "last_commit": "2026-11-10T16:51:59Z",
+            "open_issues": 143,
             "owner": "MicrosoftDocs",
             "repo": "minecraft-creator",
             "stars": 263,
@@ -218,7 +218,7 @@
             "open_issues": 59,
             "owner": "bridge-core",
             "repo": "bridge.",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "addon",
               "bridge",
@@ -423,7 +423,7 @@
                 "open_issues": 79,
                 "owner": "PrismarineJS",
                 "repo": "bedrock-protocol",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -451,7 +451,7 @@
                 "open_issues": 18,
                 "owner": "CloudburstMC",
                 "repo": "Protocol",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -618,7 +618,7 @@
                 "open_issues": 332,
                 "owner": "GeyserMC",
                 "repo": "Geyser",
-                "stars": 5958,
+                "stars": 5960,
                 "topics": [
                   "bedrock",
                   "bedrock-edition",
@@ -658,7 +658,7 @@
                 "open_issues": 25,
                 "owner": "DragonetMC",
                 "repo": "DragonProxy",
-                "stars": 980,
+                "stars": 981,
                 "topics": [
                   "bedrock",
                   "mcpe",
@@ -681,11 +681,11 @@
                 "id": 183931561,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-09T09:43:07Z",
+                "last_commit": "2026-11-10T11:48:53Z",
                 "open_issues": 54,
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
-                "stars": 578,
+                "stars": 580,
                 "topics": [
                   "auth",
                   "bedrock",
@@ -840,7 +840,7 @@
                 "open_issues": 454,
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576,
+                "stars": 3577,
                 "topics": [
                   "minecraft",
                   "minecraft-server",
@@ -865,11 +865,11 @@
                 "id": 333478800,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-08T06:59:36Z",
+                "last_commit": "2026-11-10T11:15:42Z",
                 "open_issues": 3,
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1710,
+                "stars": 1711,
                 "topics": [
                   "bedrock-dedicated-server",
                   "liteloaderbds",
@@ -899,7 +899,7 @@
                 "open_issues": 23,
                 "owner": "NiclasOlofsson",
                 "repo": "MiNET",
-                "stars": 876,
+                "stars": 878,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -928,7 +928,7 @@
                 "open_issues": 177,
                 "owner": "df-mc",
                 "repo": "dragonfly",
-                "stars": 859,
+                "stars": 861,
                 "topics": [
                   "bedrock-edition",
                   "df-mc",
@@ -1005,7 +1005,7 @@
                 "open_issues": 33,
                 "owner": "iTXTech",
                 "repo": "Genisys",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "mcpe",
                   "minecraft",
@@ -1026,11 +1026,11 @@
                 "id": 276338764,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T19:17:23Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-10T17:53:57Z",
+                "open_issues": 27,
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "javascript",
                   "mcbe",
@@ -1382,11 +1382,11 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T18:02:28Z",
+                "last_commit": "2026-11-10T17:41:40Z",
                 "open_issues": 5,
                 "owner": "fclairamb",
                 "repo": "solidping",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "alerting",
                   "devops",
@@ -1500,11 +1500,11 @@
                 "id": 23129458,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-04T22:39:08Z",
+                "last_commit": "2026-11-10T15:42:24Z",
                 "open_issues": 2061,
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 40813,
+                "stars": 40837,
                 "topics": [
                   "animated-sprites",
                   "animation",
@@ -1538,10 +1538,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-05T21:40:21Z",
-                "open_issues": 696,
+                "open_issues": 695,
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 6181,
+                "stars": 6183,
                 "topics": [
                   "3d",
                   "blockbench",
@@ -1570,7 +1570,7 @@
                 "open_issues": 17,
                 "owner": "bs-community",
                 "repo": "skinview3d",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "minecraft",
                   "minecraft-cape",
@@ -1738,7 +1738,7 @@
                 "open_issues": 8,
                 "owner": "tryashtar",
                 "repo": "image-map",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "minecraft"
                 ]
@@ -1893,7 +1893,7 @@
                 "open_issues": 34,
                 "owner": "tryashtar",
                 "repo": "nbt-studio",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "minecraft",
                   "nbt"
@@ -2091,7 +2091,7 @@
                 "id": 311150573,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T20:45:25Z",
+                "last_commit": "2026-11-09T23:48:23Z",
                 "open_issues": 0,
                 "owner": "Faithful-Resource-Pack",
                 "repo": "Faithful-64x-Bedrock",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:56:53.664Z",
+    "last_updated": "2026-11-10T18:04:12.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minecraft Bedrock plugin, tool and software.",
@@ -2321,7 +2321,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-11-04T08:53:43Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "CAIMEOX",
       "repo": "awesome-minecraft-bedrock",
       "stars": 78,
