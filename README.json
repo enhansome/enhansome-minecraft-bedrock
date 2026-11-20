@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "TwistedAsylumMC",
             "repo": "bedrock-unicode-characters",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "bedrock",
               "characters",
@@ -218,7 +218,7 @@
             "open_issues": 59,
             "owner": "bridge-core",
             "repo": "bridge.",
-            "stars": 345,
+            "stars": 344,
             "topics": [
               "addon",
               "bridge",
@@ -276,7 +276,7 @@
             "open_issues": 1228,
             "owner": "minecraft-linux",
             "repo": "mcpelauncher-manifest",
-            "stars": 1720,
+            "stars": 1719,
             "topics": [
               "bedrock",
               "launcher",
@@ -614,7 +614,7 @@
                 "id": 195856796,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:51:24Z",
+                "last_commit": "2026-11-20T12:31:02Z",
                 "open_issues": 347,
                 "owner": "GeyserMC",
                 "repo": "Geyser",
@@ -658,7 +658,7 @@
                 "open_issues": 25,
                 "owner": "DragonetMC",
                 "repo": "DragonProxy",
-                "stars": 981,
+                "stars": 980,
                 "topics": [
                   "bedrock",
                   "mcpe",
@@ -685,7 +685,7 @@
                 "open_issues": 48,
                 "owner": "Sandertv",
                 "repo": "gophertunnel",
-                "stars": 581,
+                "stars": 580,
                 "topics": [
                   "auth",
                   "bedrock",
@@ -840,7 +840,7 @@
                 "open_issues": 454,
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3575,
+                "stars": 3574,
                 "topics": [
                   "minecraft",
                   "minecraft-server",
@@ -866,10 +866,10 @@
                 "language": "C++",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-11-17T12:24:44Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "LiteLDev",
                 "repo": "LeviLamina",
-                "stars": 1728,
+                "stars": 1729,
                 "topics": [
                   "bedrock-dedicated-server",
                   "liteloaderbds",
@@ -899,7 +899,7 @@
                 "open_issues": 23,
                 "owner": "NiclasOlofsson",
                 "repo": "MiNET",
-                "stars": 878,
+                "stars": 877,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -1005,7 +1005,7 @@
                 "open_issues": 33,
                 "owner": "iTXTech",
                 "repo": "Genisys",
-                "stars": 439,
+                "stars": 438,
                 "topics": [
                   "mcpe",
                   "minecraft",
@@ -1026,11 +1026,11 @@
                 "id": 276338764,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T08:06:39Z",
-                "open_issues": 130,
+                "last_commit": "2026-11-20T18:27:43Z",
+                "open_issues": 127,
                 "owner": "JSPrismarine",
                 "repo": "JSPrismarine",
-                "stars": 322,
+                "stars": 321,
                 "topics": [
                   "javascript",
                   "mcbe",
@@ -1343,35 +1343,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "MCBE Essentials",
-              "description": "MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easier!",
-                "homepage": null,
-                "id": 439496100,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-11-12T23:24:10Z",
-                "open_issues": 2,
-                "owner": "MCBE-Essentials",
-                "repo": "mcbe-essentials.github.io",
-                "stars": 42,
-                "topics": [
-                  "addons",
-                  "bedrock",
-                  "bedrock-edition",
-                  "mcbe",
-                  "mcbe-commands",
-                  "minecraft",
-                  "webapp"
-                ]
-              },
-              "first_seen": "2026-08-28T21:12:55.827Z"
-            },
-            {
-              "node_type": "item",
               "title": "SolidPing",
               "description": "Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.",
               "children": [],
@@ -1382,11 +1353,11 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T18:11:32Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-20T11:48:20Z",
+                "open_issues": 13,
                 "owner": "fclairamb",
                 "repo": "solidping",
-                "stars": 42,
+                "stars": 45,
                 "topics": [
                   "alerting",
                   "devops",
@@ -1411,6 +1382,35 @@
                 ]
               },
               "first_seen": "2026-10-13T17:43:04.060Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MCBE Essentials",
+              "description": "MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easier!",
+                "homepage": null,
+                "id": 439496100,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-11-19T19:29:20Z",
+                "open_issues": 2,
+                "owner": "MCBE-Essentials",
+                "repo": "mcbe-essentials.github.io",
+                "stars": 42,
+                "topics": [
+                  "addons",
+                  "bedrock",
+                  "bedrock-edition",
+                  "mcbe",
+                  "mcbe-commands",
+                  "minecraft",
+                  "webapp"
+                ]
+              },
+              "first_seen": "2026-08-28T21:12:55.827Z"
             },
             {
               "node_type": "item",
@@ -1500,11 +1500,11 @@
                 "id": 23129458,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-18T21:31:05Z",
-                "open_issues": 2057,
+                "last_commit": "2026-11-20T16:19:42Z",
+                "open_issues": 2060,
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 41035,
+                "stars": 41053,
                 "topics": [
                   "animated-sprites",
                   "animation",
@@ -1541,7 +1541,7 @@
                 "open_issues": 697,
                 "owner": "JannisX11",
                 "repo": "blockbench",
-                "stars": 6222,
+                "stars": 6226,
                 "topics": [
                   "3d",
                   "blockbench",
@@ -1738,7 +1738,7 @@
                 "open_issues": 8,
                 "owner": "tryashtar",
                 "repo": "image-map",
-                "stars": 318,
+                "stars": 317,
                 "topics": [
                   "minecraft"
                 ]
@@ -1893,7 +1893,7 @@
                 "open_issues": 34,
                 "owner": "tryashtar",
                 "repo": "nbt-studio",
-                "stars": 835,
+                "stars": 833,
                 "topics": [
                   "minecraft",
                   "nbt"
@@ -1917,7 +1917,7 @@
                 "open_issues": 52,
                 "owner": "SIsilicon",
                 "repo": "WorldEdit-BE",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "minecraft",
                   "minecraft-addon",
@@ -2312,7 +2312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:05:34.985Z",
+    "last_updated": "2026-11-20T18:43:11.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minecraft Bedrock plugin, tool and software.",
