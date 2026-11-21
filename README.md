@@ -42,12 +42,12 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ## Launcher
 
-* [MCPELauncher](https://github.com/minecraft-linux/mcpelauncher-manifest.git) ⭐ 1,719 | 🐛 1,228 | 🌐 CMake | 📅 2026-10-29 - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
+* [MCPELauncher](https://github.com/minecraft-linux/mcpelauncher-manifest.git) ⭐ 1,720 | 🐛 1,228 | 🌐 CMake | 📅 2026-10-29 - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
 * [Mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher.git) ⭐ 1,064 | 🐛 98 | 🌐 C++ | 📅 2026-06-19 - Windows 10 Multi-Version launcher.
 * [BlockLauncher](https://github.com/zhuowei/MCPELauncher) ⚠️ Archived - Source code for BlockLauncher, a launcher that patches Minecraft for Android.
 * [ModdedPE](https://github.com/TimScriptov/ModdedPE.git) ⭐ 64 | 🐛 4 | 🌐 Java | 📅 2025-10-16 - ModdedPE is a launcher which allows you to open Minecraft PE and load NMods. ModdedPE can also be used as a library for your project.
 * [GenericLauncher](https://github.com/byteandahalf/GenericLauncher.git) ⭐ 50 | 🐛 14 | 🌐 Java | 📅 2018-10-19 - Launcher template for programmers to create their own MCPE hacked client/launcher
-* [Minecraft-Bedrock-macOS](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-10-28 - Runs your own copy of Windows Bedrock Edition offline on Apple silicon Macs through a locally built WineGDK and DXMT to Metal, shipped as a DMG launcher.
+* [Minecraft-Bedrock-macOS](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-10-28 - Runs your own copy of Windows Bedrock Edition offline on Apple silicon Macs through a locally built WineGDK and DXMT to Metal, shipped as a DMG launcher.
 
 ## Networking
 
@@ -60,11 +60,11 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [Meowslib](https://github.com/CAIMEOX/libwebsocket.git) ⚠️ Archived -  A websocket server lib for Minecraft Bedrock Edition.
 * [mcpews](https://github.com/mcpews/mcpews.git) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - A library that supports MCPE Websocket Protocol
 * [BedrockWS](https://github.com/eDroiid/BedrockWS.git) ⚠️ Archived - PEWS inspired websocket server for Minecraft: Bedrock Edition.
-* [PEWSServer](https://github.com/XeroAlpha/PEWSServer.git) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2018-07-17 - A WebSocket Server for Minecraft (Bedrock Edition).
+* [PEWSServer](https://github.com/XeroAlpha/PEWSServer.git) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2018-07-17 - A WebSocket Server for Minecraft (Bedrock Edition).
 
 ### Proxy
 
-* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,974 | 🐛 347 | 🌐 Java | 📅 2026-11-20 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
+* [Geyser](https://github.com/GeyserMC/Geyser.git) ⭐ 5,978 | 🐛 348 | 🌐 Java | 📅 2026-11-20 - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 * [DragonProxy](https://github.com/DragonetMC/DragonProxy.git) ⚠️ Archived - A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
 * [Gophertunnel](https://github.com/Sandertv/gophertunnel.git) ⭐ 580 | 🐛 48 | 🌐 Go | 📅 2026-11-12 - A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.
 * [WatchDog](https://github.com/yesdog/Waterdog.git) ⚠️ Archived - Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.
@@ -77,17 +77,17 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 ### Server
 
 * [Pocket Mine](https://github.com/pmmp/PocketMine-MP.git) ⚠️ Archived - A server software for Minecraft: Bedrock Edition in PHP.
-* [LeviLamina](https://github.com/LiteLDev/LeviLamina) ⭐ 1,729 | 🐛 7 | 🌐 C++ | 📅 2026-11-17 - A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
+* [LeviLamina](https://github.com/LiteLDev/LeviLamina) ⭐ 1,729 | 🐛 3 | 🌐 C++ | 📅 2026-11-17 - A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
 * [MiNET](https://github.com/NiclasOlofsson/MiNET.git) ⭐ 877 | 🐛 23 | 🌐 C# | 📅 2026-10-21 - A (not so) basic Minecraft Pocket Edition server written in C#.
 * [DragonFly](https://github.com/df-mc/dragonfly.git) ⭐ 862 | 🐛 181 | 🌐 Go | 📅 2026-11-07 - Minecraft (Bedrock Edition) server software written in Go.
 * [Nukkit](https://github.com/Nukkit/Nukkit.git) ⚠️ Archived - Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .
 * [BDSX](https://github.com/bdsx/bdsx.git) ⚠️ Archived - BDSX: Minecraft Bedrock Dedicated Server + node.js!
 * [Genisys](https://github.com/iTXTech/Genisys.git) ⚠️ Archived - Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.
-* [JSPrismarine](https://github.com/HerryYT/JSPrismarine.git) ⭐ 321 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-20 - Basic Minecraft Bedrock Edition software.
+* [JSPrismarine](https://github.com/HerryYT/JSPrismarine.git) ⭐ 321 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-21 - Basic Minecraft Bedrock Edition software.
 * [Steadfast2](https://github.com/Hydreon/Steadfast2.git) ⭐ 270 | 🐛 88 | 🌐 PHP | 📅 2023-03-09 - Minecraft PE Server Software.
 * [Element0](https://github.com/Element-0/ElementZero.git) ⚠️ Archived - Run windows version of BDS in linux with Mod support.
 * [GoMine](https://github.com/GoMint/GoMint.git) ⭐ 238 | 🐛 62 | 🌐 Java | 📅 2026-04-09 - A new fresh Minecraft: Bedrock Edition server.
-* [Serenity](https://github.com/SerenityJS/serenity) ⭐ 165 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-17 - A Minecraft Bedrock Edition Server Software
+* [Serenity](https://github.com/SerenityJS/serenity) ⭐ 166 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-17 - A Minecraft Bedrock Edition Server Software
 * [ClearSky](https://github.com/ClearSkyTeam/ClearSky.git) ⚠️ Archived - ClearSky is an fast, clean PM spoon, while having many features.
 * [Voxelwind](https://github.com/voxelwind/voxelwind.git) ⭐ 101 | 🐛 20 | 🌐 Java | 📅 2021-01-20 - The high-performance Minecraft: Pocket Edition server (in development)
 * [StoneServer](https://github.com/codehz/StoneServer.git) ⚠️ Archived - A modded minecraft bedrock edition server.
@@ -102,7 +102,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### General
 
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 45 | 🐛 13 | 🌐 Go | 📅 2026-11-20 - Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 45 | 🐛 7 | 🌐 Go | 📅 2026-11-21 - Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.
 * [MCBE Essentials](https://github.com/MCBE-Essentials/mcbe-essentials.github.io) ⭐ 42 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-19 - MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh
 * [SuitcaseJS](https://github.com/TBroz15/SuitcaseJS) ⚠️ Archived - State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.
 * [Golem](https://github.com/achedon12/golem) ⭐ 1 | 🐛 2 | 🌐 PHP | 📅 2026-11-01 - Integration testing for PocketMine-MP plugins: boots a real server, spawns simulated players and checks what they see, locally or in GitHub Actions.
@@ -111,10 +111,10 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### Resource Pack Authoring
 
-* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 41,053 | 🐛 2,060 | 🌐 C++ | 📅 2026-11-20 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-* [Blockbench](https://github.com/JannisX11/blockbench.git) ⭐ 6,226 | 🐛 697 | 🌐 JavaScript | 📅 2026-11-15 - A boxy 3D model editor
-* [Skinview3d](https://github.com/bs-community/skinview3d.git) ⭐ 748 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - Three.js powered Minecraft skin viewer.
-* [Snowstorm](https://github.com/JannisX11/snowstorm) ⭐ 249 | 🐛 26 | 🌐 Vue | 📅 2026-11-05 - Minecraft Bedrock Particle Generator
+* [Aseprite](https://github.com/aseprite/aseprite.git) ⭐ 41,073 | 🐛 2,060 | 🌐 C++ | 📅 2026-11-20 - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* [Blockbench](https://github.com/JannisX11/blockbench.git) ⭐ 6,231 | 🐛 694 | 🌐 JavaScript | 📅 2026-11-15 - A boxy 3D model editor
+* [Skinview3d](https://github.com/bs-community/skinview3d.git) ⭐ 749 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - Three.js powered Minecraft skin viewer.
+* [Snowstorm](https://github.com/JannisX11/snowstorm) ⭐ 250 | 🐛 27 | 🌐 Vue | 📅 2026-11-05 - Minecraft Bedrock Particle Generator
 * [McUnicodeFontTextureGeneratorOnline](https://github.com/codehz/minecraft-unicode-font-texture-generator-online.git) ⭐ 66 | 🐛 5 | 🌐 HTML | 📅 2022-08-01 - minecraft unicode font texture generator online(Static Web Page).
 * [Php MC 3d Skin](https://github.com/supermamie/php-Minecraft-3D-skin.git) ⭐ 55 | 🐛 3 | 🌐 PHP | 📅 2022-01-10 - Render a 3D view of a skin as a svg or png image.
 * [JsonUI Scripting](https://github.com/asakiyuki/JsonUI-Scripting) ⚠️ Archived - A library used to create UI packs for Minecraft: Bedrock Edition
@@ -144,7 +144,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 * [Scythe-AntiCheat](https://github.com/MrDiamond64/Scythe-AntiCheat.git) ⭐ 172 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-19 - The best minecraft bedrock anti-cheat designed for realms, worlds and servers.
 * [RainbowPieUI2](https://github.com/MintCoolMC/MCBE_RainbowPieUI2) ⭐ 124 | 🐛 3 | 🌐 Python | 📅 2026-04-15 - Minecraft Bedrock Edition UI
-* [Faithful-Bedrock-64x](https://github.com/Faithful-Resource-Pack/Faithful-Bedrock-64x) ⭐ 53 | 🐛 0 | 📅 2026-11-18 - The official repository for the Bedrock version of Faithful 64x
+* [Faithful-Bedrock-64x](https://github.com/Faithful-Resource-Pack/Faithful-Bedrock-64x) ⭐ 53 | 🐛 0 | 📅 2026-11-20 - The official repository for the Bedrock version of Faithful 64x
 * [MyAgent](https://github.com/mcpews/MyAgent.git) ⚠️ Archived - A agent generator and controller written in node.js.
 * [MowanBox](https://github.com/Bemly/mowanbox-mc) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-11-04 - An iOS jailbreak tweak that adds an in-game overlay mod menu to Minecraft PE (0.10-1.20) for local single-player worlds.
 
@@ -159,4 +159,4 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
